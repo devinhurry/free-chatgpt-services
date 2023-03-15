@@ -7,3 +7,6 @@ a list of free chatgpt services addition to the official one
 - FreeGPT https://freegpt.one/
 - freechatgpt.chat https://freechatgpt.chat/
 - ayaka14732/ChatGPTAPIFree https://github.com/ayaka14732/ChatGPTAPIFree the provider of freechatgpt.chat
+
+## Other sites for collecting free services
+- https://github.com/xx025/carrot
