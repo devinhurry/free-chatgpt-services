@@ -1,6 +1,9 @@
 # free-chatgpt-services
 a list of free chatgpt services addition to the official one
 
+## Available in China
+
+## Free
 - The Official Chatgpt: https://chat.openai.com/chat 
 - New Bing https://bing.com need to join the waitlist, and usage is limited
 - poe https://poe.com available in mobile and web (GPT-4 is charged)
@@ -16,3 +19,5 @@ a list of free chatgpt services addition to the official one
 
 ## Other sites for collecting free services
 - https://github.com/xx025/carrot
+- https://github.com/LiLittleCat/awesome-free-chatgpt
+- https://cc.ai55.cc/
